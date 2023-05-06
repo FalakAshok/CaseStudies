@@ -13,4 +13,6 @@ Initial Security()
 
 
 }
+<<<<<<< HEAD
 Updating the Security Patch in Public FEature1 branch
+Updating the Security Patch with Private Feature2 branch
